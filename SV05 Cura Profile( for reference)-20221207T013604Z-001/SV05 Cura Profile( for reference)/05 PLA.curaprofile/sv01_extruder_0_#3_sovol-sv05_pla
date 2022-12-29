@@ -1,0 +1,43 @@
+[general]
+version = 4
+name = sovol-SV05 PLA
+definition = fdmprinter
+
+[metadata]
+type = quality_changes
+quality_type = draft
+intent_category = default
+position = 0
+setting_version = 19
+
+[values]
+bottom_thickness = 0.6
+brim_width = 2
+fill_outline_gaps = True
+infill_sparse_density = 10
+material_print_temperature = 190
+retract_at_layer_change = True
+retraction_count_max = 10
+retraction_speed = 40
+skin_no_small_gaps_heuristic = True
+skirt_brim_minimal_length = 25
+skirt_line_count = 2
+speed_layer_0 = 15
+speed_print = 50
+speed_support = 20
+speed_topbottom = 50
+speed_wall = 15
+support_angle = 65
+support_brim_enable = True
+support_brim_width = 3
+support_roof_enable = True
+support_roof_height = 0.4
+support_roof_pattern = zigzag
+support_use_towers = False
+support_wall_count = 1
+support_xy_distance = 0.8
+support_z_distance = 0.2
+z_seam_corner = z_seam_corner_inner
+z_seam_type = sharpest_corner
+zig_zaggify_infill = True
+
