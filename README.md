@@ -27,7 +27,7 @@ Sovol Nozzels are not standard V6 nozzels from what I can tell they appear signi
 When replacing the heatbreak I found that my printers had 2 setscrews (one on top of the other) holding the heatbreaks into the housing. 
 I am certain if you found this you have also found Aurora tech's video (https://youtu.be/1GrnOgkhclw) which reccomends the same things. I Followed Aurora tech guidance to move the spool up to the top and to add a filament guide. I did not like this because it lead to print failures when the filament would get dragged around the X-axis stepper motor.
 
-~~The Filament guide I designed in at https://github.com/osteth/Sovol-SV05-Donkey-Modpack/blob/a93c873029fcdde4d4e717f142fba4256eb7f2ac/Mods/Sovol%20SV05%20Filament%20Guide.stl if you want to give it a try but know that you may experience some some failures. ~~
+~~The Filament guide I designed in at https://github.com/osteth/Sovol-SV05-Donkey-Modpack/blob/a93c873029fcdde4d4e717f142fba4256eb7f2ac/Mods/Sovol%20SV05%20Filament%20Guide.stl if you want to give it a try but know that you may experience some some failures.~~
 
 This is not perfect by any means but its the best I have come up with so far. This turntable spool holder is the best method I have come up wit to date.
 https://github.com/osteth/Sovol-SV05-Donkey-Modpack/tree/main/Mods/Turntable%20Spool%20Holder
