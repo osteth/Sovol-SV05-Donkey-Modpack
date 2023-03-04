@@ -7,9 +7,13 @@ Durring the initial assembly, the manua will tell you to run the extruder wires 
 The manual also instructs to install the filament guide upside down from the way it should really work. I flip it over and attach it so the top of the bracket touches the upper corner bracket. 
 
 ## Modification Stage 1:
+
+### Notice! - I have since encountered issues with the extruder that prevent the system from printing to my expectations. Please check issues for more info
+
 In stage one we are making the lowest cost/return modsifications only. 
 
 First and foremost, change the firmware, immediately. https://github.com/osteth/Sovol-SV05-Donkey-Modpack/blob/a93c873029fcdde4d4e717f142fba4256eb7f2ac/SV05%20Firmware/HillSoftware%20Octoprint%20Enabled%20Firmware.bin
+
 This is the firmware I am currently using. I found it from https://github.com/hillsoftware/SV05 there may be some updates you can find at that link. 
 
 While purchasing your SV05 I highly reccomend additionally purchasing a bi-metal heatbreak and hardened nozzels. 
@@ -23,7 +27,10 @@ Sovol Nozzels are not standard V6 nozzels from what I can tell they appear signi
 When replacing the heatbreak I found that my printers had 2 setscrews (one on top of the other) holding the heatbreaks into the housing. 
 I am certain if you found this you have also found Aurora tech's video (https://youtu.be/1GrnOgkhclw) which reccomends the same things. I Followed Aurora tech guidance to move the spool up to the top and to add a filament guide. I did not like this because it lead to print failures when the filament would get dragged around the X-axis stepper motor.
 
-The Filament guide I designed in at https://github.com/osteth/Sovol-SV05-Donkey-Modpack/blob/a93c873029fcdde4d4e717f142fba4256eb7f2ac/Mods/Sovol%20SV05%20Filament%20Guide.stl if you want to give it a try but know that you may experience some some failures. 
+~~The Filament guide I designed in at https://github.com/osteth/Sovol-SV05-Donkey-Modpack/blob/a93c873029fcdde4d4e717f142fba4256eb7f2ac/Mods/Sovol%20SV05%20Filament%20Guide.stl if you want to give it a try but know that you may experience some some failures. ~~
+
+This is not perfect by any means but its the best I have come up with so far. This turntable spool holder is the best method I have come up wit to date.
+https://github.com/osteth/Sovol-SV05-Donkey-Modpack/tree/main/Mods/Turntable%20Spool%20Holder
 
 ## Modification Stage 2:
 In modification Stage 2 we are going to try to improve quality of life using DIY/self printed mods. 
